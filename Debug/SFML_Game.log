@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\main.cpp(24,15): warning C4244: 'initializing': conversion from 'double' to 'clock_t', possible loss of data
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\main.cpp(56,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\main.cpp(56,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\main.cpp(95,48): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\main.cpp(95,40): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\main.cpp(293,28): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\main.cpp(294,28): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\SFML_Game\main.cpp(389,21): warning C4305: '-=': truncation from 'double' to 'float'
+  SFML_Game.vcxproj -> C:\Users\Pun Punyawat\OneDrive\Desktop\SFML\SFML_Game\Debug\SFML_Game.exe
